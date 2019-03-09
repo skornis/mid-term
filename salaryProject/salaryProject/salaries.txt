@@ -1,0 +1,8 @@
+Smith John 25550 2.3 4
+Doe Jane 35053 4.6 2
+Evans Bob 45852 1.9 5
+Burglar Ham 22535 6.3 6
+Stevens Pete 55555 0.9 1.5
+Anderson Annie 36584 4.2 3
+Bo Beau 65845 2.9 1
+Charles Chewie 25852 0 0

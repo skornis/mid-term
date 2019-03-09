@@ -1,0 +1,8 @@
+John Smith's new annual salary is: $26137.65, the new monthly salary is: $2178.14 and the back pay is : $195.88
+Jane Doe's new annual salary is: $36665.44, the new monthly salary is: $3055.45 and the back pay is : $268.74
+Bob Evans's new annual salary is: $46723.19, the new monthly salary is: $3893.60 and the back pay is : $362.99
+Ham Burglar's new annual salary is: $23954.71, the new monthly salary is: $1996.23 and the back pay is : $709.85
+Pete Stevens's new annual salary is: $56055.00, the new monthly salary is: $4671.25 and the back pay is : $62.50
+Annie Anderson's new annual salary is: $38120.53, the new monthly salary is: $3176.71 and the back pay is : $384.13
+Beau Bo's new annual salary is: $67754.51, the new monthly salary is: $5646.21 and the back pay is : $159.13
+Chewie Charles's new annual salary is: $25852.00, the new monthly salary is: $2154.33 and the back pay is : $0.00
