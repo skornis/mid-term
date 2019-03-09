@@ -9,7 +9,7 @@
 using namespace std;
 
 void newFile::updateSalaryFile(string l, string f) {
-	createNew.open(outputFile, ios_base::app);
+	createNew.open(outputFile, ios_base::app);//opens output file and appends it instead of erasing previous data
 	createNew << f << " " << l;
 	createNew << fixed << setprecision(2) << "'s new annual salary is: $" << getNewSalary() << ", the new monthly salary is: $" << getNewSalary() / 12;
 	createNew << " and the back pay is : $" << getBackPay() << endl;

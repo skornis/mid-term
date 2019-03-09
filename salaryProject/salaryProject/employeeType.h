@@ -7,9 +7,9 @@ using namespace std;
 
 class employeeType {
 private:
-	void setLastName(string);
-	void setFirstName(string);
-	void setAnnualSalary(double);
+	void setLastName(string);//sets last name
+	void setFirstName(string);//sets first name
+	void setAnnualSalary(double);//sets annual salary
 
 	string lastName;
 	string firstName;
